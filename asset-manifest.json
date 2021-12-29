@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/counter-responsive/static/css/main.6ac5ccda.css",
+    "main.js": "/counter-responsive/static/js/main.8d48f6a8.js",
+    "index.html": "/counter-responsive/index.html",
+    "main.6ac5ccda.css.map": "/counter-responsive/static/css/main.6ac5ccda.css.map",
+    "main.8d48f6a8.js.map": "/counter-responsive/static/js/main.8d48f6a8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ac5ccda.css",
+    "static/js/main.8d48f6a8.js"
+  ]
+}
